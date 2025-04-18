@@ -9,13 +9,7 @@ body {
 <body class="home-page">         <!-- index.html -->
 <body class="store-page">        <!-- storefront.html -->
 <body class="blog-page">         <!-- blog.html -->
-  
 /* General Reset */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
 body.blog-page {
   font-family: 'Open Sans', sans-serif;
