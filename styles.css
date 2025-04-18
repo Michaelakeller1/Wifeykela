@@ -6,6 +6,11 @@
 }
 
 body {
+<body class="home-page">         <!-- index.html -->
+<body class="store-page">        <!-- storefront.html -->
+<body class="blog-page">         <!-- blog.html -->
+  
+<body class="truth-decau-page">  <!-- truth-decau.html -->
   font-family: 'Poppins', sans-serif;
   color: #333;
   background: #fff6f9;
